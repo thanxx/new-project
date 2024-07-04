@@ -9,5 +9,6 @@ git commit -am "init"
 git checkout -b development
 # nano README.md , add instructions, save
 git commit -am "added instructions"
-git merge development main
+git checkout main
+git merge development
 ```
