@@ -1,3 +1,5 @@
+##Instructions
+
 ```
 mkdir new-project
 git init
@@ -8,3 +10,4 @@ git checkout -b development
 # nano README.md , add instructions, save
 git commit -am "added instructions"
 git merge development main
+```
